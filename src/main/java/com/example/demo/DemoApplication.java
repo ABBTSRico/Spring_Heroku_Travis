@@ -15,7 +15,7 @@ public class DemoApplication {
 
     @RequestMapping("/PER_Test")
     public String PER_TestX() {
-        return "Hallo Testprojekt!";
+        return "Hallo Testprojekt - Zweiter Commit!";
     }
 
 }
